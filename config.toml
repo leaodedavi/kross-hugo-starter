@@ -2,7 +2,7 @@ baseURL = "https://geleaodedavi-test.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "GE Leão de Davi - 483/SP"
 [[menu.main]]
 URL = "about"
 name = "About"
